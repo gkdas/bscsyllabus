@@ -146,7 +146,9 @@ compounds.
 4. Able to write mechanism of different aldol and related condensation
 reaction involving various carbonyl derivatives.
 
-**Recommended Texts **
+-----------------
+Recommended Texts
+-----------------
 
 1. Clayden J., Greeves N., Warren S. & Wothers P. “Organic Chemistry”
 
