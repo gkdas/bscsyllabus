@@ -75,11 +75,18 @@ Learning outcome
 ----------------
 
 At the end of this course the students can correlate the electronic structure
-of a specific geometry of a molecule. He can also predict the reactivity on
+of a molecule to its specific geometry. He can also predict the reactivity on
 the basis of it structural properties. He also gain knowledge on how to draw
 reaction mechanism and divide a complete reaction on several elementary steps.
 He do also have an idea on the 3-D structure and the related properties of
 a molecule.
 
  
+-----------------
+Recommended Texts
+-----------------
+
+1. Clayden J., Greeves N., Warren S. & Wothers P. “Organic Chemistry”
+
+2. Sykes, P. “Mechanism in Organic Chemistry” (6th ed.)
 

@@ -61,8 +61,8 @@ degradation and Curtius rearrangement.
 Nitrogen and Sulphur containing compounds: 10 Lectures
 ------------------------------------------------------
 
-Preparation and important reactions of nitro and compounds, nitriles and
-isonitriles Amines: Effect of substituent and solvent on basicity;
+Preparation and important reactions of nitro and nitroso compounds, nitriles and
+isonitriles. Amines: Effect of substituent and solvent on basicity;
 Preparation and properties: Gabriel phthalimide synthesis, Carbylamine
 reaction, Mannich reaction, Hoffmann’s exhaustive methylation,
 Hofmann-elimination reaction; Distinction between 1°, 2° and 3° amines
@@ -109,25 +109,32 @@ m) Cane sugar n) Glucose m) Resorcinol
 Learning objectives
 -------------------
 
-1. To be acquainted with aldehydes and to know their chemical and
-physical properties.
+1. To be acquainted with alcohols, phenols, ethers, epoxides and to know 
+their chemical and physical properties.
 
-2. How to name different aldehydes and ketones.
+2. To be acquainted with aldehydes, ketones and carboxylic acid derivatives
+and to know their chemical and physical properties.
 
-3. To understand the reactivity of different carbonyl compounds
+3. To gain knowledge on the behaviour of seleveral nitrogenous compounds.
+
+4. To get knowledge on the utility of differenct organo metallic reagents.
+
+5. To understand the reactivity of different carbonyl compounds
 (aldehydes, ketones and their α,β-unsaturated analogs) towards various
 types of nucleophillic addition and nucleophilic addition-elimination
 reactions.
 
-4. How to convert aldehydes and ketones to other carbonyl derivatives
-and *vice-versa*.
+6. How to convert alcohols phenols, aldehydes and ketones, carboxylic acids
+to other derivatives and *vice-versa*.
 
-4. How to write mechanisms of various nucleophilic addition,
-nucleophilic addition-elimination and other reactions of aldehydes and
-ketones.
+7. How to write mechanisms of various nucleophilic addition,
+nucleophilic addition-elimination, nucleophilic substitution  and other
+reactions of oxygenated and nitrogenated derivatives.
 
-5. To understand how to use protecting group chemistry in multistep
-organic synthesis involving carbonyl compounds.
+8. To understand how to use protecting group chemistry in multistep
+organic synthesis.
+
+9. To identify practically some common organic compounds.
 
 -----------------
 Learning outcomes
@@ -135,16 +142,18 @@ Learning outcomes
 
 By the end of this course, students will be able to:
 
-1. Recognize various functional groups related to carbonyls.
+1. Recognize various functional groups related to oxygenated and nitrogenated
+organic compounds.
 
-1. Explain the structure and properties of aldehydes and ketones in
-addition to other carbonyl derivatives.
-
-1. Predict mechanism of different reactions characteristic to carbonyl
+2. Explain the structure and properties of oxygenated and nitrogenated
 compounds.
 
-4. Able to write mechanism of different aldol and related condensation
-reaction involving various carbonyl derivatives.
+3. Predict mechanism of different reactions characteristic to oxygenated and
+nitrogenated compounds.
+
+4. Identify practically some common organic compounds by exploiting their
+physical properties and characteristic chemical reactions.
+
 
 -----------------
 Recommended Texts
@@ -158,3 +167,6 @@ Recommended Texts
 Step-by-Step Approach to Understanding Organic Reaction Mechanisms"
 
 4. Finar, I. L. "Organic Chemistry"
+
+5. Nad, A. K., Mahapatra, B., Ghoshal, A. "An Advanced Course in 
+Practical Chemistry".

@@ -29,7 +29,7 @@ e.g. propene, 1-butene, toluene, ethyl benzene.
 additions. Hydration to form carbonyl compounds, Alkylation of terminal 
 alkynes.
 
-Alkanes, Cycloalkanes and Conformational Analysis: 16 Lectures*
+Alkanes, Cycloalkanes and Conformational Analysis: 16 Lectures
 --------------------------------------------------------------
 
 Nomenclature, types of strain, Bayer strain theory, measurement of
@@ -89,5 +89,42 @@ functional group and preparation of a derivative (with M.P):
 
 4. Analysis of Carbohydrate: aldoses and ketoses, reducing and
 non-reducing sugars.
+
+
+------------------
+Learning Objective
+------------------
+
+- To gain knowledge on the structure and properties of special class
+of organic compounds, viz., aliphatic hydrocarbons, aromatic hydrocarbons
+and alkyl halides.
+
+- To gain knowledge on the reactivities and reaction mechanisms related
+to the hydrocarbons and halides.
+
+- To identify the reaction intermediates in the free radical mechanism.
+
+- Empirical rules for regioselectivity associated with elimination process.
+
+- Practical knowledge on how to make qualitative analysis of a pure organic
+compound
+
+-Practical knowledge on how to purify an organic compound.
+
+
+
+----------------
+Learning Outcome
+----------------
+
+At the end of this course the students will have a strong background on 
+identifying the properties and reactivities of aliphatic, aromatic 
+hydrocarbons and halides from their structure. They also gain the 
+practical knowledge on making qualitative analysis of organic compounds
+and their purification technique.
+
+---------------
+Reference Books
+---------------
 
 
