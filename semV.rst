@@ -2,9 +2,9 @@
 Semester V
 ==========
 
------------------------------------------------
-GROUP –B (theory-ORGANIC CHEMISTRY) (3 Credits)
------------------------------------------------
+-----------------------------------------------------------------
+CHEMISTRY-BCHC-51:GROUP –B (theory-ORGANIC CHEMISTRY) (3 Credits)
+-----------------------------------------------------------------
 
 Credit 2 + 1 (Tutorial) : Lecture 30 +15
 
@@ -75,10 +75,17 @@ Learning objectives
 1. To make the students familiar with the basic principles of various
 spectroscopic techniques (UV,IR, NMR, and MS).
 
-2. How to apply these spectroscopic techniques in the structure
-elucidation of organic compounds.
+#. How to analyze NMR pulse sequences using this basic NMR theory
 
-3. How to analyze experimental NMR, IR, UV, and MS spectra
+#. How to execute basic 1-dimentional proton and carbon experiments on a
+   standard NMR spectrometer
+
+#. How to interpret 1-dimentional NMR spectra from simple organic compounds
+
+#. How to apply these spectroscopic techniques in the structure
+   elucidation of organic compounds.
+
+#. How to analyze experimental NMR, IR, UV, and MS spectra
 
 -----------------
 Learning outcomes
@@ -106,4 +113,5 @@ of Organic Compounds"
 3. Kemp, W. "Organic Spectroscopy"
 
 4. Kalsi, P.S., "Spectroscopy of Organic Compounds"
+
 
