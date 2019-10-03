@@ -127,4 +127,10 @@ and their purification technique.
 Reference Books
 ---------------
 
+1. Clayden J., Greeves N., Warren S. & Wothers P. “Organic Chemistry”
+
+2. J. March, "Advanced Organic Chemistry: Reactions, Mechanisms, and Structure"
+
+4. Vogel's Textbook of Practical Organic Chemistry
+
 
