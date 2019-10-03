@@ -85,3 +85,48 @@ curcumin (haldi), azadirachtin (neem), vitamin C and antacid
 (ranitidine).
 
 
+------------------
+Learning Objective
+------------------
+
+- To gain knowledge on the special class of reactions that occurs
+under the control of moleculear orbital symmetry.
+
+- To understand the synthon approach in designing complex structure.
+Students will also learn the functional group interversion which is 
+mandatory for designing a synthesis.
+
+- To gain the knowledge on the fundamental biomolecular processes on
+which the survival of animals and plants depend.
+
+- To gain knowledge on the structure activity relationship and the 
+syntheses of several drug molecules.
+
+----------------
+Learning Outcome
+----------------
+
+- While completing this course the students will have the ability
+to understand the basic electronic property for explaining the
+organic reactions. The famous orbital symetry rule enables them 
+to interprete the behaviour of several pericyclic processes. They 
+also have sufficient knowledge on designing a target molecule based
+on synthon approach. In addition students also learn several bio-
+molecular feature that controls the dynamics of living system.
+
+
+-----------------
+Recommended Texts
+-----------------
+
+1. Clayden J., Greeves N., Warren S. & Wothers P. “Organic Chemistry”
+
+2. Warren, S., "Organic Synthesis: The Disconnection Approach"
+
+3. Silverman and Holladay, "The Organic Chemistry of Drug Design and 
+Drug Action"
+
+4. Berg, J. M., Tymoczko, J. L. and Stryer, L., "Biochemistry"
+
+
+

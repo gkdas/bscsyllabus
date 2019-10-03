@@ -87,6 +87,8 @@ spectroscopic techniques (UV,IR, NMR, and MS).
 
 #. How to analyze experimental NMR, IR, UV, and MS spectra
 
+#. To gain knowledge on the chemistry of dyes and synthetic polymers.
+
 -----------------
 Learning outcomes
 -----------------
@@ -97,7 +99,7 @@ Students will be well conversant with the applications of spectroscopic
 techniques towards the determination of molecular structures. In
 summary, they will learn about how to solve chemical and structural
 problems in a systematic manner by applying these spectroscopic
-techniques.
+techniques. In addition they will get knowledge on dyes and polymers.
 
 
 --------------------
